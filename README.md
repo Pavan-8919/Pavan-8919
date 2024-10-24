@@ -1,7 +1,6 @@
 -  Hi, I’m @Pavan-8919 , sannamandla Pavan Kumar 
 -  I’m interested in hacking 
--  I’m currently learning cyber and IOT
--  I’m looking to collaborate on 
+-  I’m currently learning cybersecurity and IOT
 -  How to reach me 
 
 <!---$ sudo apt update && sudo apt upgrade
